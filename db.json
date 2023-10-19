@@ -10,10 +10,6 @@
   },
   "data-change-signals":
   {
-	  "data_type": "VOTING",
-	  "event_type": "CREATE",
-	  "event_resource": 1234,
-	  "event_time": "2022-04-26T13:09:04+07:00",
 	}
 
   
