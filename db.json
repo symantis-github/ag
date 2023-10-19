@@ -8,9 +8,19 @@
   "profile": {
     "name": "typicode"
   },
-  	"users": [
+  "users": [
 	{
 	  "id": 1234,
+	  "locality": 42,
+	  "name": "Игорь",
+	  "surname": "Зайцев",
+	  "patronymic": "Ильич",
+	  "is_active": true,
+	  "balance": 1350
+	},
+
+	  {
+	  "id": 9999,
 	  "locality": 42,
 	  "name": "Игорь",
 	  "surname": "Зайцев",
